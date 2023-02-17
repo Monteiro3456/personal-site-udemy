@@ -11,16 +11,16 @@
   </head>
   <body>
     <div class="top-container">
-      <img class = "top-cloud" src="images/cloud.png" alt="cloud-img">
+      <img class = "top-cloud" src="cloud.png" alt="cloud-img">
       <h1>I'm Angela.</h1>
       <h2>a <span class = "pro">pro</span>grammer</h2>
 
-      <img class = "bottom-cloud" src="images/cloud.png" alt="cloud-img">
-      <img src="images/mountain.png" alt="mountain-img">
+      <img class = "bottom-cloud" src="cloud.png" alt="cloud-img">
+      <img src="mountain.png" alt="mountain-img">
     </div>
     <div class="middle-container">
       <div class="profile">
-        <img class ="descclass" src="images/angela.png" alt="chillies-img">
+        <img class ="descclass" src="angela.png" alt="chillies-img">
         <h2>Hello.</h2>
         <p class = "intro">I am an Ios and Web Developer . I'm the founder and CTO of the App Brewery . I Love coffee and brew my own beers</p>
       </div>
@@ -28,12 +28,12 @@
       <div class="skills">
         <h2>My Skills.</h2>
         <div class="skill-row">
-          <img class="skill1image" src="images/chillies.png" alt="">
+          <img class="skill1image" src="chillies.png" alt="">
           <h3>Design and Development</h3>
         <p>i started learning to code when i was 12 years old because i wanted to make my own video games , Over time , I have gained a wealth of experience designing and developing mobile and web applications</p>
         </div>
         <div class="skill-row">
-          <img class="skill2image" src="images/computer.png" alt="">
+          <img class="skill2image" src="computer.png" alt="">
           <h3>Hot Wings Challenge</h3>
           <p class ="skill2desc">But my best skill is actually in eating hot wings . I am the undispluted king of hot wing challenges Ghost Peppers and carolina Reapers are mhy favourite snacks.</p>
 
